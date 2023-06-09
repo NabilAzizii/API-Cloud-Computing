@@ -20,6 +20,16 @@ Mengambil data dari tabel apply-kip berdasarkan ID.
 | :-------- | :------- 
 | `id`      | `int`    
 
+#### Get data model by ID
+
+```http
+    GET /getdatamodel/:id
+```
+Mengambil data yang dibutuhkan model dari database berdasarkan ID.
+| Parameter | Type     
+| :-------- | :------- 
+| `id`      | `int` 
+
 #### Get Public URL Foto Rumah by ID
 
 ```http
