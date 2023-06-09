@@ -11,7 +11,3 @@ Using [Flask](https://flask.palletsprojects.com/en/2.3.x/) and [NodeJs](https://
 - [Cloud Storage](https://cloud.google.com/storage)
 - [App Engine](https://cloud.google.com/appengine)
 
-
-## Test
-
-- Unit test using Postman
