@@ -10,8 +10,9 @@ Dokumentasi MyKIP API Machine Learning
 ```http
     POST /predict
 ```
-Melakukan predict dengan request json
+Melakukan predict dengan requests json
 
+**Request Body:**
 | Parameter    | Type               | Description                |
 | :--------    | :-------           | :------------------------- |
 |`prestasi`    | `Boolean`          | **required**; **1**; true, **0**; false  |
