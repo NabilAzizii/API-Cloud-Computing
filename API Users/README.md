@@ -2,8 +2,6 @@
 
 Dokumentasi MyKIP API Data Users
 
-## Base Url : https://backend-dot-mykip-387204.et.r.appspot.com
-
 #### Get all data
 
 
