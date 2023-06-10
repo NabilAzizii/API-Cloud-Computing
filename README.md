@@ -10,4 +10,5 @@ Using [Flask](https://flask.palletsprojects.com/en/2.3.x/) and [NodeJs](https://
 - [Cloud SQL](https://cloud.google.com/sql)
 - [Cloud Storage](https://cloud.google.com/storage)
 - [App Engine](https://cloud.google.com/appengine)
+- [Cloud Functions](https://cloud.google.com/functions)
 
