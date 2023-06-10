@@ -2,14 +2,6 @@
 
 Dokumentasi MyKIP API Machine Learning
 
-## Base Url : `*Tahap Deployment*`
-
-#### Predict
-
-
-```http
-    POST /predict
-```
 Melakukan predict dengan requests json
 
 **Request Body:**
