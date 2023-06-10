@@ -55,7 +55,7 @@ def predict():
     prediction, confidence = inference(
         ["./csv_model.h5", "./image_model.h5"],
         [
-            np.array([[prestasi, nilai_ujian, gaji_ortu, status_kip, status_rumah]]),
+            np.array([[prestasi, nilai_ujian, gaji_ortu/1000000, status_kip, status_rumah]]),
             process_image(foto_rumah),
         ],
     )
