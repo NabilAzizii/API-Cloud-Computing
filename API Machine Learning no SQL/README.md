@@ -24,4 +24,4 @@ Melakukan predict dengan requests json
 
 *Contoh JSON API Machine Learning:
 
-![contoh Json API Machine Learning](https://github.com/NabilAzizii/API-Cloud-Computing/assets/128737322/e1717800-e757-4a7f-8bab-a46c7cec82c4)
+![contoh Json API Machine Learning2](https://github.com/NabilAzizii/API-Cloud-Computing/assets/128737322/fc6922d7-6c62-4c50-beb5-a761e3ef7580)
