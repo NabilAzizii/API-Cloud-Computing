@@ -137,5 +137,5 @@
   20. Create the required JSON
   21. Then *click* `SEND`
   
-  #### Build with Love [Muhammad Nabil Azizi](https://www.linkedin.com/in/muhammad-nabil-azizi-6a180a164/) and [Arya Nur Hidayat](https://www.linkedin.com/in/arya-nur-hidayat-ba26081b8/) as a Cloud Team ❤
+  #### Build with Love by [Muhammad Nabil Azizi](https://www.linkedin.com/in/muhammad-nabil-azizi-6a180a164/) and [Arya Nur Hidayat](https://www.linkedin.com/in/arya-nur-hidayat-ba26081b8/) as a Cloud Team ❤
   
