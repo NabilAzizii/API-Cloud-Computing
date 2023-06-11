@@ -65,7 +65,7 @@
 
 ###
 
-  # Datasets
+  ## Datasets
 
   Sample student data : </br>
   We got our sample students dataset from [this article.](https://www.iocscience.org/ejournal/index.php/mantik/article/view/3536/2601)
@@ -78,7 +78,7 @@
   * Screenshots from Google Street View
   * Own Picture
 <br/><br/>
-# KIP Classification Model
+## KIP Classification Model
 
 <img src='https://github.com/yunama47/CapstoneTeamC23-PC621/raw/main/Capstone%20Assets/model-architecture.jpg'>
 
